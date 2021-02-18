@@ -3,3 +3,4 @@
 ||pos.baidu.com^
 ||wn.pos.baidu.com^
 ||feed-image.baidu.com^
+||stats.chinaz.com^
