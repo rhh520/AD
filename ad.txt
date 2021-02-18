@@ -1,1 +1,2 @@
-||lupic.cdn.bcebos.com ^
+||lupic.cdn.bcebos.com^
+||t11.baidu.com^
