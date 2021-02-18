@@ -3,3 +3,4 @@
 ||cpro.baidu.com^
 ||pos.baidu.com^
 ||wn.pos.baidu.com^
+||feed-image.baidu.com^
