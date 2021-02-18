@@ -1,5 +1,4 @@
 ||lupic.cdn.bcebos.com^
-||t11.baidu.com^
 ||cpro.baidu.com^
 ||pos.baidu.com^
 ||wn.pos.baidu.com^
